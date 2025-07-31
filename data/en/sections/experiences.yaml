@@ -29,13 +29,6 @@ experiences:
     - Automate workflow to ensure consistent and optimized deployments across development and production environments
     - Deployment and Management of containerized application in Azure Environment
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
     name: AppsCode
@@ -72,5 +65,5 @@ experiences:
     start: Jun 2015
     end: Jan 2016
     responsibilities:
-    - Slideshow Maker: Implemented auto face detection and selecting a specific area from an image.
-    - Add Music to Video: Designed and implemented AI Effect feature which detects human from a video frame and add different effects around the human. The detection was done by a machine learning model and the effects were drawn using OpenGL.
+    - "Slideshow Maker: Implemented auto face detection and selecting a specific area from an image."
+    - "Add Music to Video: Designed and implemented AI Effect feature which detects human from a video frame and add different effects around the human. The detection was done by a machine learning model and the effects were drawn using OpenGL."

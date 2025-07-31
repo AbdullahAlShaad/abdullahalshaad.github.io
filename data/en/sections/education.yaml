@@ -16,7 +16,7 @@ degrees:
   institution:
     name: University of Chittagong
     url: "#"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/university.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
@@ -46,7 +46,7 @@ degrees:
   institution:
     name: Feni Govt. College
     url: "#"
-    logo: /images/sections/education/science_college.png
+    logo: /images/sections/education/college.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
