@@ -29,13 +29,6 @@ experiences:
     - Automate workflow to ensure consistent and optimized deployments across development and production environments
     - Deployment and Management of containerized application in Azure Environment
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
     name: AppsCode
