@@ -30,36 +30,18 @@ projects:
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
-
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: Bookstore
+  role: Owner
+  timeline: "January 2022 - Present"
+  repo: https://github.com/AbdullahAlShaad/bookstore
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  summary: The Bookstore Application is a full-stack web application designed to provide an online platform for bookstore. It consists of a React-based frontend for user interaction and a backend API to handle business logic and data management.
   tags: ["hobby", "fun"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
+- name: SimPlayer
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "Jul 2020 - Aug 2020"
+  repo: https://github.com/AbdullahAlShaad/SimPlayer
+  summary: A simple music player which scans through computer and finds all the audio in home directories. User can play next/previous songs and see the song list and select a song to play.
+  tags: ["hobby","professional"]
