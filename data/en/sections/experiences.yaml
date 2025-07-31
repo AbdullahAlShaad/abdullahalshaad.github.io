@@ -72,5 +72,5 @@ experiences:
     start: Jun 2015
     end: Jan 2016
     responsibilities:
-    - Slideshow Maker: Implemented auto face detection and selecting a specific area from an image.
-    - Add Music to Video: Designed and implemented AI Effect feature which detects human from a video frame and add different effects around the human. The detection was done by a machine learning model and the effects were drawn using OpenGL.
+    - "Slideshow Maker: Implemented auto face detection and selecting a specific area from an image."
+    - "Add Music to Video: Designed and implemented AI Effect feature which detects human from a video frame and add different effects around the human. The detection was done by a machine learning model and the effects were drawn using OpenGL."
